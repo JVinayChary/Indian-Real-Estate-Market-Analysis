@@ -55,9 +55,9 @@ Total Listings Count.
 5. City Wise Average Price used Stacked Bar.
 
 # Filters
-State 
-City
-Property Type
+State,
+City,
+Property Type.
 
 # 📊 Dashboard 2: Real Estate Market Insights of India
 1. A bubble chart illustrating the relationship between average price and furnishing status (furnished, semi-furnished, unfurnished).
@@ -67,10 +67,10 @@ Property Type
 5. A lollipop chart showing the average price trend of property types by their respective BHK values.
 
 # Filters
-State 
-City
-Property Type 
-Furnished, Semi-Furnished, UnFurnished
+State,
+City,
+Property Type,
+Furnished, Semi-Furnished, UnFurnished.
 
 # Author
 JANGAM VINAY CHARY | Data Analyst
