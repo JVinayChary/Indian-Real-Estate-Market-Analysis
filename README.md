@@ -34,7 +34,11 @@ The dataset consists of over 250k property listings and contains the following f
 - Price per sq. ft 
 - Furnishing Status 
 - Availability status (Ready, Under Construction) 
-- Ownership (Owner, Builder, Broker) 
+- Ownership (Owner, Builder, Broker)
+
+# Tools Used
+- Excel for Data Cleaning 
+- Tableau for Data Visualization
 
 # 📊 Dashboard 1: Real Estate Market Insights of India
 KPIs 
@@ -50,9 +54,23 @@ Total Listings Count
 4. State Wise Price Map used Filled Map showing.
 5. City Wise Average Price used Stacked Bar.
 
+# Filters
+State 
+City
+Property Type
+
 # 📊 Dashboard 2: Real Estate Market Insights of India
 1. A bubble chart illustrating the relationship between average price and furnishing status (furnished, semi-furnished, unfurnished).
 2. A pie chart showing the distribution of property owners by type (owner, builder, broker).
 3. A side-by-side chart comparing the average furnishing status of ready-to-move and/or under-construction properties by type.
 4. A tree map illustrating Luxury, Spacious, Standard, Compact and Micro Houses.
 5. A lollipop chart showing the average price trend of property types by their respective BHK values.
+
+# Filters
+State 
+City
+Property Type 
+Furnished, Semi-Furnished, UnFurnished
+
+# Author
+JANGAM VINAY CHARY | Data Analyst
