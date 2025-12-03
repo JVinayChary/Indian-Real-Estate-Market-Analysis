@@ -41,11 +41,11 @@ The dataset consists of over 250k property listings and contains the following f
 - Tableau for Data Visualization
 
 # 📊 Dashboard 1: Real Estate Market Insights of India
-KPIs 
-Median Price 
-Average Price 
-Average Area (Sq.Ft) 
-Total Listings Count 
+KPIs,
+Median Price,
+Average Price,
+Average Area (Sq.Ft),
+Total Listings Count.
 
 # Charts 
 1. Property Wise Count used Donut Chart showing the distribution of Apartments, Villas and Independent Houses.
